@@ -1,1 +1,1 @@
-# Python-KNN-NaiveBayes-MLP
+# Python-KNN-MLP
